@@ -1,6 +1,6 @@
 # Raze Client
 Raze is a Minecraft Client aimed to bypass most anticheats.
-Current latest version is 1.8.
+Current latest version is 1.9.
 
 ### Client Features:
 * Simple Installation and Usage.
